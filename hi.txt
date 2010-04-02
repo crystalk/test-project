@@ -1,4 +1,4 @@
-hi!
+hi crystal!
 
 Hello!
 
@@ -7,6 +7,7 @@ Now, we are in Jeremy's branch.
 Another change
 Branching
 
+Just kidding, now we are on my branch
 Global setup:
 
  Download and install Git
