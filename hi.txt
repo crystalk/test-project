@@ -2,6 +2,8 @@ hi!
 
 Hello!
 
+Now, we are n Jeremy's branch.
+
 Global setup:
 
  Download and install Git
