@@ -1,7 +1,7 @@
 hi!
 
 Hello!
-
+Just kidding, now we are on my branch
 Global setup:
 
  Download and install Git
