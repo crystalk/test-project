@@ -2,7 +2,7 @@ hi!
 
 Hello!
 
-Now, we are n Jeremy's branch.
+Now, we are in Jeremy's branch.
 
 Another change
 
